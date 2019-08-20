@@ -1,0 +1,15 @@
+POST http://babilonga.me/game/cf-usersignup.asp HTTP/1.1
+Host: babilonga.me
+Connection: keep-alive
+Content-Length: 192
+Origin: http://babilonga.me
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: */*
+X-Requested-With: ShockwaveFlash/32.0.0.238
+Referer: http://babilonga.me/game/gamefiles/newuser/AQW-Landing-19May16.swf
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: PHPSESSID=p8ainfmk0ba74og89fl6eokiim
+
+intColorHair=6180663&strDOB=8%2F20%2F2006&intColorEye=91294&strEmail=$$$$$$$$$%40gmail%2Ecom&HairID=52&strPassword=$$$$$$$$$&intAge=13&intColorSkin=15388042&strGender=M&strUsername=$$$$$$$$$$$$$$$&ClassID=2
